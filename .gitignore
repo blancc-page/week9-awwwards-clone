@@ -1,3 +1,4 @@
 awwwards-virtual/
 .env
 *pyc
+db*
